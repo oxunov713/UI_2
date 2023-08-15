@@ -104,9 +104,9 @@ void main() {
                   decoration: BoxDecoration(
                     borderRadius: BorderRadius.all(Radius.circular(20)),
                     gradient: LinearGradient(colors: [
-                      Color(0xFF364649),
+                      Color(0xFFAA895F),
                       Color(0xFFE0D8CC),
-                    ], begin: Alignment.topLeft, end: Alignment.bottomRight),
+                    ], begin: Alignment.topRight, end: Alignment.bottomLeft),
                   ),
                 ),
                 Row(
